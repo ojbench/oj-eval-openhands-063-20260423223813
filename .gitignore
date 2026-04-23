@@ -1,0 +1,9 @@
+
+
+CMakeFiles/
+CMakeCache.txt
+test
+test_file.bin
+*.o
+*.log
+
